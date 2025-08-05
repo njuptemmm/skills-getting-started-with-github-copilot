@@ -74,6 +74,12 @@ activities = {
         "schedule": "Saturdays, 9:00 AM - 12:00 PM",
         "max_participants": 22,
         "participants": ["ava@mergington.edu", "noah@mergington.edu"]
+    },
+    "Soccer Club": {
+        "description": "Football training, team tactics, and competitive matches",
+        "schedule": "Mondays and Fridays, 4:30 PM - 6:30 PM",
+        "max_participants": 24,
+        "participants": ["carlos@mergington.edu", "mia@mergington.edu", "david@mergington.edu"]
     }
 }
 
